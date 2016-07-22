@@ -2,7 +2,6 @@
  * main.c
  *
  *  Created on: 2014/08/18
- *      Author: 20161517
  */
 
 #include <stdio.h>
